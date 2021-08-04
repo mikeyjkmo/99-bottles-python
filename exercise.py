@@ -1,2 +1,6 @@
 class Bottles:
-    pass
+    def verse(self, number):
+        return ""
+
+    def song(self):
+        return ""
