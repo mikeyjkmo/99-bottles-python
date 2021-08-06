@@ -1,5 +1,5 @@
 # Instructions
-Complete the function that returns the lyrics for the song 99 Bottles of Beer.
+Complete the class that returns the lyrics for the song 99 Bottles of Beer.
 
 Lyrics:
 
